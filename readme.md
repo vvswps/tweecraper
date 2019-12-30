@@ -1,12 +1,11 @@
 tweecraper - Copy tweet links of the specified keywords from specified accounts from Twitter
 
-It makes use of selenium
+It makes use of selenium.
 
 The requirements are:
     1. Selenium
     2. Webdriver for your respected browser(Firefox has been used in this example)
     3. pyperclip - for quick access to the clipboard
-Tutorials for installations are avaliable on google
 
 Make sure to keep all files in same place
 
